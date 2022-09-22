@@ -1,2 +1,3 @@
-# Disease-prediction-tools-on-genomic-variants
-A comprehensive comparision of disease prediction tools on genomic variants
+# Methods-comparisons-on-disease-prediction
+
+Some instructions and codes (including codes related to machine learning models) are presented in the ipynb file.
